@@ -1,16 +1,16 @@
 {
   "members": [
     {
-      "id": 1,
+      "id": "1",
       "tag": "son",
-      "title": "",
+      "title": "husband",
       "type": "children",
       "name": "John Lewis",
       "date": "(1878 - 1923)",
       "image": "/assets/section-3/member-21.jpg",
       "dad": "",
       "family": {
-        "id": 2,
+        "id": "2",
         "type": "family",
         "husband": {
           "tag": "",
@@ -32,7 +32,7 @@
         },
         "children": [
           {
-            "id": 3,
+            "id": "3",
             "tag": "son",
             "type": "children",
             "title": "husband",
@@ -41,7 +41,7 @@
             "image": "/assets/section-3/member-26.jpg",
             "dad": "John Lewis",
             "family": {
-              "id": 4,
+              "id": "4",
               "type": "family",
               "husband": {
                 "tag": "",
@@ -57,7 +57,7 @@
               },
               "children": [
                 {
-                  "id": 5,
+                  "id": "5",
                   "type": "children",
                   "tag": "son",
                   "title": "husband",
@@ -67,7 +67,7 @@
                   "dad": "Steven Lewis",
                   "family": {
                     "type": "family",
-                    "id": 6,
+                    "id": "6",
                     "husband": {
                       "tag": "",
                       "name": "Steven West",
@@ -82,7 +82,7 @@
                     },
                     "children": [
                       {
-                        "id": 7,
+                        "id": "7",
                         "type": "children",
                         "tag": "daughter",
                         "title": "wife",
@@ -91,7 +91,7 @@
                         "image": "/assets/section-3/member-32.jpg",
                         "dad": "Steven Lewis 2",
                         "family": {
-                          "id": 8,
+                          "id": "8",
                           "type": "family",
                           "wife": {
                             "tag": "wife",
@@ -103,7 +103,7 @@
                         }
                       },
                       {
-                        "id": 9,
+                        "id": "9",
                         "type": "children",
                         "tag": "son",
                         "title": "husband",
@@ -112,7 +112,7 @@
                         "image": "/assets/section-3/member-33.jpg",
                         "dad": "Steven Lewis 2",
                         "family": {
-                          "id": 10,
+                          "id": "10",
                           "type": "family",
                           "husband": {
                             "tag": "husband",
@@ -127,7 +127,7 @@
                   }
                 },
                 {
-                  "id": 11,
+                  "id": "11",
                   "type": "children",
                   "tag": "daughter",
                   "title": "wife",
@@ -136,7 +136,7 @@
                   "image": "/assets/section-3/member-7.jpg",
                   "dad": "Steven Lewis",
                   "family": {
-                    "id": 12,
+                    "id": "12",
                     "type": "family",
                     "wife": {
                       "tag": "wife",
@@ -148,7 +148,7 @@
                   }
                 },
                 {
-                  "id": 13,
+                  "id": "13",
                   "type": "children",
                   "tag": "daughter",
                   "title": "husband",
@@ -157,7 +157,7 @@
                   "image": "/assets/section-3/member-27.jpg",
                   "dad": "Steven Lewis",
                   "family": {
-                    "id": 14,
+                    "id": "14",
                     "type": "family",
                     "husband": {
                       "tag": "husband",
@@ -169,16 +169,16 @@
                   }
                 },
                 {
-                  "id": 15,
+                  "id": "15",
                   "type": "children",
-                  "tag": "daughter",
-                  "title": "son",
-                  "name": "John Lewis",
+                  "tag": "son",
+                  "title": "husband",
+                  "name": "Andrew Lewis",
                   "date": "(1945 - 2003)",
                   "image": "/assets/section-3/member-28.jpg",
                   "dad": "Steven Lewis",
                   "family": {
-                    "id": 16,
+                    "id": "16",
                     "type": "family",
                     "husband": {
                       "tag": "husband",
@@ -193,15 +193,16 @@
             }
           },
           {
-            "id": 17,
+            "id": "17",
             "type": "children",
             "tag": "daughter",
+            "title": "wife",
             "name": "Anastasia Adams",
             "date": "(1915 - 1974)",
             "image": "/assets/section-3/member-23.jpg",
             "dad": "John Lewis",
             "family": {
-              "id": 18,
+              "id": "18",
               "type": "family",
               "wife": {
                 "tag": "",
@@ -213,15 +214,16 @@
             }
           },
           {
-            "id": 19,
+            "id": "19",
             "type": "children",
             "tag": "son",
+            "title": "husband",
             "name": "Michael Lewis",
             "date": "(1918 - 2016)",
             "image": "/assets/section-3/member-20.jpg",
             "dad": "John Lewis",
             "family": {
-              "id": 20,
+              "id": "20",
               "type": "family",
               "husband": {
                 "tag": "son",
@@ -233,19 +235,20 @@
             }
           },
           {
-            "id": 21,
+            "id": "21",
             "type": "children",
             "tag": "daughter",
-            "name": "Martha Taylor",
+            "title": "wife",
+            "name": "Martha Taylor ",
             "date": "(1923 - 1923)",
             "image": "/assets/section-3/member-14.jpg",
             "dad": "John Lewis",
             "family": {
-              "id": 22,
+              "id": "22",
               "type": "family",
               "wife": {
                 "tag": "",
-                "name": "Martha Taylor",
+                "name": "Martha Taylor ",
                 "date": "(1923 - 1923)",
                 "image": "/assets/section-3/member-14.jpg"
               },
